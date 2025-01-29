@@ -1,5 +1,5 @@
 {
-  "name": "iut-encrypt",
+  "name": "@abillonnet/iut-encrypt",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
